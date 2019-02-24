@@ -1,0 +1,92 @@
+baseURL = "https://comprovandoseonavip.live/"
+title = "ComprovandoSEOnaVIP"
+subtitle = "Desafiando os Mestres do SEO no Concurso da VIP"
+languageCode = "pt-br"
+# preservetaxonomynames = true
+theme = "hugo-travelify-theme"
+canonifyURLs = true
+
+
+[params]
+    # Tell me who you are
+    author = "ComprovandoSEOnaVIP"
+    site_description = "Desafiando os Mestres do SEO no Concurso da VIP"
+    copyright  = "Copyright"
+    avatar = "img/avatar.png"
+    logo = "css/images/logo.png"
+    disable_mathjax = true # set to true to disable MathJax
+
+    date_format = "02/01/2006"
+
+    # Add custom assets with their paths relative to the static folder
+    custom_css = []
+    custom_js  = []
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+
+
+[[menu.main]]
+    name  = "Home"
+    url   = "/"
+    weight = 10
+
+[[menu.main]]
+    name  = "Sobre"
+    url   = "/sobre/"
+    weight = 10
+    
+[[menu.main]]
+    name  = "Contato"
+    url   = "/contato/"
+    weight = 20
+
+[[menu.main]]
+    name  = "Blog"
+    url   = "/post/"
+    weight = 20
+    
+[params.share]
+    enable = true
+    facebook = true
+    twitter = true
+    email = true
+
+[params.privacy]
+enable = true # false implies switching on tracking application, you can individually turn off applications that you don't want. If enable = true, then all tracking apps are switched off
+facebook_like = true
+DisqusShortname = "nikimonikado"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = false
+    tags = false
+    tag_cloud = false
+    archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
+    search = true
+    mailchimp = false
+    mailchimpform = "//balaramadurai.us15.list-manage.com/subscribe/post?u=7f4183fa2fe7abe3dc9f4efad&amp;id=49a3dd3745"
+    author = false
+
+[params.slider]
+    enable = false
+    manual = false # Setting manual to true renders the slide selection to only those where the post has a slider=true option enabled
+    num_features = 6 # The slider picks up the banner images from the N most recent posts, where num_features is N.
+
+[Taxonomies]
+    tags = "tags"
+    categories = "categorias"
+    author = "autor"
+
+## DONE - Menu
+## DONE - slider 
+## DONE - facebook like on homepage
+## DONE - category URL to work
+## DONE - footer
+## DONE - add tags to the footer
+## TODO - some posts without banner

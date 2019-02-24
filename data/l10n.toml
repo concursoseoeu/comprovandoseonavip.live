@@ -1,0 +1,53 @@
+[articles]
+    read_more = "Leia mais"
+    words = "palavras"
+    readingtime = "minutos de leitura"
+    share = "Compartilhe isso:"
+    comments = "Comentários"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "←"
+    newer = "→"
+
+[search]
+    placeholder = "Pesquisa"
+
+[pagination]
+    previous = "Anterior"
+    next = "Próximo"
+
+[profile]
+    follow_button = "Like Us"
+    tags = "Tags"
+    posts = "Posts"
+
+[page_not_found]
+    title = "Erro 404 - Página não Encontrada"
+    subtitle = "O conteúdo que você está procurando não existe."
+
+[share]
+	facebook = "Compartilhe"
+	twitter = "Tweet"
+	email = "Email"
+	emailmessage = "Olá, eu acredito que você vai gostar de ler este artigo"
+	
+[widgets.categories]
+    title = "Categorias"
+
+[widgets.recent_articles]
+    title = "Recentes"
+
+[widgets.tag_cloud]
+    title = "Nuvem de Tags"
+    min_count = 2  # If you have many posts, then tag with just one topic makes the tag cloud cluttered. This variable can help reduce the clutter.
+
+[widgets.mailchimp]
+    title = "Subscribe via Email"
+    subscribe_text = "Enter your email address to subscribe to this blog and receive notifications of new posts by email."
+
+[widgets.tags]
+    title = "Tags"
+
+[authors]
+    Title = "Authors"
