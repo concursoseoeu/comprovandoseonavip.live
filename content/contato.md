@@ -7,9 +7,6 @@ disable_comments: true
 
 ---
 
-# Entre em contato conosco
-
-
 Seja muito bem vindo à página de contato do [ComprovandoSEOnaVIP](https://ComprovandoSEOnaVIP.live)
 
 Aqui você tem a opção de enviar uma mensagem para nós.
