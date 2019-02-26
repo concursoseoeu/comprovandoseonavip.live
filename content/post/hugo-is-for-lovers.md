@@ -24,7 +24,7 @@ Se este for o caso, é muito fácil executar a manutenção simplesmente regener
 
 Como o site é somente HTML, nenhum banco de dados ou PHP é necessário. O projeto já está sendo entregue por todos os lados sem a necessidade de novas consultas. 
 
-Positivo é a hospedagem simples de um site em HTML. Todo ambiente da internet está preparado para isso.
+Outro aspécto positivo é a hospedagem simples de um site em HTML. Todo ambiente da internet está preparado para isso.
 
 ## HUGO CONTRA O WORDPRESS
 
@@ -38,17 +38,17 @@ O Wordpess tem mais recursos e, claro, precisa de mais recursos.
 
 É muito fácil hospedar um site [Wordpress](https://br.wordpress.org/) desde que um banco de dados possa ser criado e o servidor esteja executando o PHP. 
 
-O problema é o desempenho, porque todos esses serviços exigem muitos servidores e, portanto, exigem servidores com melhores configurações.
+O problema é o desempenho, porque todos esses serviços exigem muitos recursos e, portanto, exigem servidores com melhores configurações.
 
 ## FÁCIL
 
-Inicialmente, a migração de um modelo desenvolvido para o Wordpress para usar no Hugo era fácil. 
+Inicialmente, a migração de um site desenvolvido para o Wordpress para usar no Hugo é fácil. 
 
-A lógica operacional era compreensível de uma maneira compreensível e o site estava pronto para receber conteúdo em poucas horas. Os departamentos são fáceis de entender e o uso de diretórios ajuda.
+A lógica operacional é compreensível e o site fica pronto para receber conteúdo em poucas horas. 
+
+Os comandos são fáceis de entender e o uso de diretórios ajuda muito.
 
 O bom é que a organização pode ser projetada de forma muito individual e nenhum plug-in adicional é necessário. 
-
-Para replicar os tipos de postagem do nosso blog, era suficiente organizar o código em pastas e definir identificadores no arquivo para publicação.
 
 ## PROBLEMAS
 
@@ -56,7 +56,7 @@ Esqueça o conteúdo dinâmico, Ajax e formulários. Sites 100% estáticos não 
 
 Para o formulário de contato, usamos [formspreee.io](https://formspree.io/), que permite 1000 remessas mensais gratuitas e adiciona uma camada de segurança com o controle captcha e spam. 
 
-Mas nesse projeto não será necessário o uso de formulários.
+Mas nesse projeto no cuncurso de SEO não será necessário o uso de formulários.
 
 ## HUGO e SEO
 
