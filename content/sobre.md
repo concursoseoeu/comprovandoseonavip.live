@@ -7,7 +7,7 @@ disable_comments: true
 
 ---
 
-# Sobre Nós
+# Saiba mais sobre ComprovandoSEOnaVIP.Live
 
 Olá querido leitor. Eu sou o Live.
 
