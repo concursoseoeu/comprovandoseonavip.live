@@ -47,7 +47,7 @@ Ao longo do tempo eles foram ganhando links e mais links de todo o mundo, até q
 
 Então, se existe no seu nicho uma possibilidade de criar uma ferramenta que vai gera tráfego direto e ainda atrair links em toda a parte, invista nisso.
 
-Outro exemplo que gerou milhões de links em todo o mundo é a pesquisa feita pelo (Backlinko)[ https://backlinko.com/]. Eles analisaram (1 milhão de resultados de pesquisa do google)[ https://backlinko.com/search-engine-ranking]. Ou nesse artigo que analisaram (1,3 milhões de vídeos no youtube) [https://backlinko.com/youtube-ranking-factors].
+Outro exemplo que gerou milhões de links em todo o mundo é a pesquisa feita pelo [Backlinko](https://backlinko.com/). Eles analisaram [1 milhão de resultados de pesquisa do google](https://backlinko.com/search-engine-ranking]). Ou nesse artigo que analisaram [1,3 milhões de vídeos no youtube](https://backlinko.com/youtube-ranking-factors).
 
 <img src="/img/backlinko-google-search.jpg" alt="Exemplo de linkbait - Site Backlinko" class="center">
 
