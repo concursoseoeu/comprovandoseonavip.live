@@ -6,7 +6,7 @@ tags = ["concurso"]
 categories = ["opinião"]
 menu = ""
 banner = "img/observacoes.jpg"
-banner-small = "img/observacoes-small.jpg"
+bannersmall = "img/observacoes-small.jpg"
 +++
 
 ## O Domínio Exato
