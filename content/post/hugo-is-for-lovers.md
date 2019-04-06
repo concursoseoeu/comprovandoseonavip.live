@@ -6,6 +6,7 @@ tags = ["hugo"]
 categories = ["tecnologia"]
 menu = ""
 banner = "img/hugo.jpg"
+banner-small = "img/hugo-small.jpg"
 +++
 
 ## O HUGO
