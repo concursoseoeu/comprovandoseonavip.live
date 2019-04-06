@@ -6,7 +6,7 @@ tags = ["marketing"]
 categories = ["Conteudo"]
 menu = ""
 banner = "img/linkbait.png"
-banner-small = "img/linkbait-small.png"
+bannersmall = "img/linkbait-small.png"
 +++
 Olá caro leitor.
 
