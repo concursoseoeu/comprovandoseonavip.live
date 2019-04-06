@@ -6,7 +6,7 @@ tags = ["marketing"]
 categories = ["Conteudo"]
 menu = ""
 banner = "img/palavras-chave.jpg"
-banner-small = "img/palavras-chave-small.jpg"
+bannersmall = "img/palavras-chave-small.jpg"
 +++
 
 Olá querido leitor,
