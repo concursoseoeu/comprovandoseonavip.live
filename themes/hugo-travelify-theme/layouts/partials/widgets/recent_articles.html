@@ -8,8 +8,8 @@
             {{ range first 5 (where .Site.Pages "Type" "post") }}
             <li class="rpwe-il rpwe-classfix">
                 <a class="rpwe-img" href="{{ .Permalink }}" class="thumbnail">
-		    {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
-                    <img class="rpwe-alignleft rpwe-thumb" src="{{ .Params.banner | absURL }}" alt="{{ $.Title }}" width="258">
+		    {{ if and (isset .Params "banner-small") (not (eq .Params.banner-small "")) }}
+                    <img class="rpwe-alignleft rpwe-thumb" src="{{ .Params.banner-small | absURL }}" alt="{{ $.Title }}" width="258">
 		    {{else}}
                     <span class="thumbnail-image thumbnail-none"></span>
 		    {{ end }}
