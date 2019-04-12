@@ -49,7 +49,12 @@ Isso significa que você pode fazer um site estático em Hugo e hospedar gratuit
 
 Para demonstrar, vou postar aqui alguns prints dos resultados desse site nas ferramentas que fazem análise de velocidade de carregamento.
 
-Mas você não precisa acreditar nos prints, que podem ser facilmente manipuláveis. Acesse você mesmo e veja que os dados são reais.
+<img src="/img/pagespeed.jpg" alt="resultados do comprovandoseonavip no pagespeed" class="center">
+
+<img src="/img/gtmetrix.jpg" alt="desempenho do comprovandoseonavip no gtmetrix" class="center">
+
+Invejosos vão dizer: “Claro, com 298kb até minha vó!”. Mas esses são os exatos 298kb que precisam ser mostrados nessa página, incluindo imagens, thumbnails dos posts e um vídeo do Youtube.
+
 
 ## Otimização de Imagens
 
