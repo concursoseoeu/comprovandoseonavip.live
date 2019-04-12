@@ -1,5 +1,5 @@
 +++
-title = “Velocidade de carregamento com Hugo Netlify e Otimização de Imagens"
+title = "Velocidade de carregamento com Hugo, Netlify e Otimização de Imagens"
 date = "2019-04-11T18:47:08+02:00"
 author = "ComprovandoSEOnaVIP"
 tags = ["Velocidade"]
