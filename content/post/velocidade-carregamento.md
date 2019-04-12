@@ -53,7 +53,7 @@ Para demonstrar, vou postar aqui alguns prints dos resultados desse site nas fer
 
 <img src="/img/gtmetrix.jpg" alt="desempenho do comprovandoseonavip no gtmetrix" class="center">
 
-Invejosos vão dizer: “Claro, com 298kb até minha vó!”. Mas esses são os exatos 298kb que precisam ser mostrados nessa página, incluindo imagens, thumbnails dos posts e um vídeo do Youtube.
+Invejosos vão dizer: “Claro, com 298kb até minha vó!”. Mas esses são os exatos 298kb que precisam ser mostrados nessa página, incluindo imagens, thumbnails dos posts e um vídeo do Youtube. Isso é otimização!
 
 
 ## Otimização de Imagens
