@@ -2,8 +2,8 @@
 title = "O Uso Estratégico de Palavras-Chave no Conteúdo da WEB"
 date = "2019-02-26T13:47:08+02:00"
 author = "ComprovandoSEOnaVIP"
-tags = ["marketing"]
-categories = ["Conteudo"]
+tags = ["Marketing"]
+categories = ["Conteúdo"]
 menu = ""
 banner = "img/palavras-chave.jpg"
 bannersmall = "img/palavras-chave-small.jpg"

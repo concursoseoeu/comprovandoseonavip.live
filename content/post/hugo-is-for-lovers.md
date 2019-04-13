@@ -2,8 +2,8 @@
 title = "Hugo is for lovers"
 date = "2019-02-23T13:47:08+02:00"
 author = "ComprovandoSEOnaVIP"
-tags = ["hugo"]
-categories = ["tecnologia"]
+tags = ["Hugo"]
+categories = ["Tecnologia"]
 menu = ""
 banner = "img/hugo.jpg"
 bannersmall = "img/hugo-small.jpg"

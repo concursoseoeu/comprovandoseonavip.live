@@ -2,8 +2,8 @@
 title = " O que é Linkbait – 5 Etapas para Gerar Conteúdo que Atrai Milhões de Links"
 date = "2019-04-01T13:47:08+02:00"
 author = "ComprovandoSEOnaVIP"
-tags = ["marketing"]
-categories = ["Conteudo"]
+tags = ["Marketing"]
+categories = ["Conteúdo"]
 menu = ""
 banner = "img/linkbait.png"
 bannersmall = "img/linkbait-small.png"

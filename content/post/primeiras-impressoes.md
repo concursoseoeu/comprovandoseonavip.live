@@ -2,8 +2,8 @@
 title = "Primeiras percepções do concurso de SEO"
 date = "2019-02-25T10:47:08+02:00"
 author = "ComprovandoSEOnaVIP"
-tags = ["concurso"]
-categories = ["opinião"]
+tags = ["Concurso"]
+categories = ["Opinião"]
 menu = ""
 banner = "img/observacoes.jpg"
 bannersmall = "img/observacoes-small.jpg"
