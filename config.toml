@@ -64,7 +64,7 @@ DisqusShortname = "nikimonikado"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = false
+    categories = true
     tags = false
     tag_cloud = false
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
@@ -79,9 +79,9 @@ DisqusShortname = "nikimonikado"
     num_features = 6 # The slider picks up the banner images from the N most recent posts, where num_features is N.
 
 [Taxonomies]
-    tags = "tags"
-    categories = "categorias"
-    author = "autor"
+    tags = "Tags"
+    categories = "categories"
+    author = "Autor"
 
 ## DONE - Menu
 ## DONE - slider 
