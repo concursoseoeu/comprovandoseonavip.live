@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="pt-br">
   {{ partial "header" . }}
   <body class="home blog logged-in admin-bar no-customize-support ">
     <div class="wrapper">
@@ -18,26 +18,24 @@
 	      </header>
 	      <div class="entry-content clearfix">
 		<p>{{with .Site.Data.l10n.page_not_found.subtitle}}{{.}}{{end}}</p>
-		<h3>This might be because:</h3>
+		<h3>Isso pode ter acontecido porque:</h3>
 		<ul>
-		  <li>You have typed the web address incorrectly</li>
-		  <li>The page you were looking for may have been moved, updated or deleted.</li>
+		  <li>Você digitou o endereço da web incorretamente;</li>
+		  <li>A página que você estava procurando pode ter sido movida, atualizada ou excluída.</li>
 		</ul>
-		<h3>Please try the following:</h3>
+		<h3>Por favor, tente o seguinte:</h3>
 		<ul>
-		  <li>Check for a mis-typed URL error</li>
-		  <li>Press the refresh button on your browser.</li>
-		  <li>Go back to <a href="/" title="{{ .Site.Title }}" rel="home">Homepage</a></li>
+		  <li>Verificar o endereço da URL digitado</li>
+		  <li>Pressione o botão de atualização no seu navegador.</li>
+		  <li>Volte para a <a href="/" title="{{ .Site.Title }}" rel="home">Pagina inicial</a></li>
 		</ul>
 	      </div>
 	    </div>
 	  </div><!-- #content -->
 	</div><!-- #primary -->
 	<div id="secondary">
-	  {{ partial "widgets/search" . }}
 	  {{ partial "widgets/categories" . }}
-	  {{ partial "widgets/archive" . }}
-	  {{ partial "widgets/tag_cloud" . }}
+	  {{ partial "widgets/search" . }}
 	</div><!-- #secondary -->
       </div><!-- #container -->   
     </div><!-- #main -->
