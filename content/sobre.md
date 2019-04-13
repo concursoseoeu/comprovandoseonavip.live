@@ -15,11 +15,11 @@ Sim, é só um apelido que o autor desejou inventar para falar de mim.
 
 Se você já percebeu, exitem outros ComprovandoSEOnaVIP para o mesmo objetivo.
 
-Eu sou o [ComprovandoSEOnaVIP.LIVE](https://ComprovandoSEOnaVIP.LIVE) por isso pode me chamar só de Live mesmo.
+Eu sou o [ComprovandoSEOnaVIP.LIVE](https://Comprovandoseonavip.live) por isso pode me chamar só de Live mesmo.
 
 Esse site tem o objetivo de participar do concurso de SEO da VIP promovido pelo Tico.
 
-Se você não sabe que concurso é esse dá uma olhada na [Home]((https://ComprovandoSEOnaVIP.LIVE)) desse site que tem mais informações.
+Se você não sabe que concurso é esse dá uma olhada na [Home](https://comprovandoseonavip.live) desse site que tem mais informações.
 
 Esse site é diferente dos demais porque não usa Wordpress e sim [Hugo](https://gohugo.io/) que é um gerador de site estático.
 
