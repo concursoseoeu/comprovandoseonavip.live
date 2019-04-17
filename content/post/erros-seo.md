@@ -1,8 +1,8 @@
 +++
-title = “8 Erros Comuns de SEO Que Podem Arruinar o Seu Site"
+title = "8 Erros Comuns de SEO Que Podem Arruinar o Seu Site"
 date = "2019-04-17T10:47:08+02:00"
 author = "ComprovandoSEOnaVIP"
-tags = ["Erros"]
+tags = ["Erros","SEO"]
 categories = ["Conteúdo"]
 menu = ""
 banner = "img/erros-seo.jpg"
