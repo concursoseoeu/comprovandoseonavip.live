@@ -39,7 +39,7 @@ O Wordpess tem mais recursos e, claro, precisa de mais recursos.
 
 É muito fácil hospedar um site [Wordpress](https://br.wordpress.org/) desde que um banco de dados possa ser criado e o servidor esteja executando o PHP. 
 
-O problema é o desempenho, porque todos esses serviços exigem muitos recursos e, portanto, exigem servidores com melhores configurações.
+O problema é o desempenho, porque todos esses serviços exigem muitos recursos e, portanto, exigem servidores com melhores configurações. Enquanto um site estático será sempre [mais rápido](https://comprovandoseonavip.live/post/velocidade-carregamento/).
 
 ## FÁCIL
 
