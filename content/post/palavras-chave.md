@@ -17,7 +17,7 @@ Especialistas que lidam com SEO são de opinião que, para classificar bem nas p
 
 Isso permitirá que os mecanismos de pesquisa compreendam a importância dessas palavras-chave em relação à sua página da Web e listem de maneira adequada nas SERPs quando consultadas para essas palavras-chave.
 
-O truque aqui é como você pode estrategicamente colocar suas palavras-chave dentro do conteúdo da sua página sem torná-lo óbvio, ou otimizado demais.
+O truque aqui é como você pode estrategicamente colocar suas palavras-chave dentro do conteúdo da sua página sem torná-lo óbvio, ou otimizado demais, o que seria um [erro](https://comprovandoseonavip.live/post/erros-seo/).
 
 Afinal de contas, o objetivo da sua página da Web deve ser normalmente manter a atenção do visitante pelo tempo suficiente, e transmitindo a ele certa informação ou conhecimento com qualidade em vez de tentar força-lo a comprar seu produto a qualquer custo.
 
@@ -89,7 +89,7 @@ Em segundo lugar, ampliamos o assunto da discussão. Ou seja, o conteúdo da pá
 
 Isso é necessário porque os mecanismos de busca costumam mostrar para o usuário essa descrição, portanto, uma boa elaboração é sempre uma ajuda.
 
-Terceiro, a palavra-chave"Furacão Katrina" está mais uma vez localizada no começo, de modo que os mecanismos de busca começam a reconhecer que essa é a palavra-chave mais importante para o conteúdo dessa página.
+Terceiro, a palavra-chave "Furacão Katrina" está mais uma vez localizada no começo, de modo que os mecanismos de busca começam a reconhecer que essa é a palavra-chave mais importante para o conteúdo dessa página.
 
 E por último, é melhor que a descrição termine em um ponto final. Neste ponto, vamos refletir um pouco. Pode-se argumentar que a meta-descrição pode não ser necessariamente uma frase completa gramaticalmente correta. 
 
