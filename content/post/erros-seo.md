@@ -1,13 +1,12 @@
 +++
-title = “8 Erros Comuns de SEO Que Podem Arruinar o Seu Site."
+title = “8 Erros Comuns de SEO Que Podem Arruinar o Seu Site"
 date = "2019-04-17T10:47:08+02:00"
 author = "ComprovandoSEOnaVIP"
-tags = ["Erros", "SEO"]
+tags = ["Erros"]
 categories = ["Conteúdo"]
 menu = ""
 banner = "img/erros-seo.jpg"
 bannersmall = "img/erros-seo-small.jpg"
-
 +++
 
 Existem centenas de fatores que são responsáveis por posicionar bem um site nos mecanismos de pesquisa. E por ter muitas informações e nem sempre consistentes, é comum que alguns erros sejam cometidos na abordagem da maioria dos sites.
