@@ -72,4 +72,4 @@ Nenhuma ideia serve pra nada, por melhor que seja. O que faz a diferença é um 
 
 Ter ideias é fácil, colocar essas ideias em prática é o que diferencia das pessoas de sucesso das que apenas estão por ai.
 
-Você vai errar várias vezes, mas vai bastar uma vez bem sucedida para te dar resultados incríveis. E ainda assim, você vai querer mais e vai ter novas ideias que juntas serão responsáveis pelo seu sucesso no longo prazo.
+Você vai [errar](https://comprovandoseonavip.live/post/erros-seo/) várias vezes, mas vai bastar uma vez bem sucedida para te dar resultados incríveis. E ainda assim, você vai querer mais e vai ter novas ideias que juntas serão responsáveis pelo seu sucesso no longo prazo.
