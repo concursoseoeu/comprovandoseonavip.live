@@ -10,8 +10,7 @@ canonifyURLs = true
 [params]
     # Tell me who you are
     author = "ComprovandoSEOnaVIP"
-    site_description = "Desafiando os Mestres do SEO no Concurso da VIP"
-    description = "ComprovandoSEOnaVIP é um desafio para alcançar o topo das buscas em apenas dois meses e aqui está mais um concorrente neste desafio empolgante."
+    site_description = "We are the champions, my friends!"
     copyright  = "Copyright"
     avatar = "img/avatar.png"
     logo = "css/images/logo.png"
